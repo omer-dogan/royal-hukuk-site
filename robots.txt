@@ -1,5 +1,3 @@
-﻿User-agent: *
+User-agent: *
 Allow: /
-
-Sitemap: https://royalhukuk.com/sitemap.xml
-
+Sitemap: https://www.royalhukuk.com.tr/sitemap.xml
